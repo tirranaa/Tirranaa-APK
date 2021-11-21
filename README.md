@@ -5,3 +5,6 @@
 
 ##### Have funn
 ##### By [tirranaa](https://github.com/tirranaa)
+
+<h3 align="left">Connect with me:</h3><p align="left">
+<a href="https://fb.com/tirranaa" target="blank"><img align="center" src="https://github.com/tirranaa/t/blob/main/images/FacebookProfile.gif" alt="tirranaa" height="50" width="200" /></a><a href="https://www.youtube.com/channel/UCdhWA8nAebq3mKQsS4tYbBw?sub_confirmation=1" target="blank"><img align="center" src="https://github.com/tirranaa/t/blob/main/images/IvayloYordanov.gif" alt="ivailoyordanov" height="50" width="200" /></a></p>
