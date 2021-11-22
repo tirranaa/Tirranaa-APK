@@ -2,28 +2,24 @@
 
 #### The application is a simple and convenient container, of our website passthrough using Webview ! You can Download it from [here](https://github.com/tirranaa/Tirranaa-APK/raw/main/com.tirranaa/Tirranaa.apk) ! You can make your own app, if you edit mine, using my Source [Code](https://github.com/tirranaa/Tirranaa-APK). Or you just make it so, your own way.
 
-Changelog:
-
-Tirranaa.apk
+Changelog: Tirranaa.apk
 
 version 1.1 !
 
-changelog:
+For convenience of user experiences and privacy conserns, 
+I removerd: 
+- All No External Browser overrides, 
+- And allowed users to open external browser and external links !
+- This way the application is turned into a shortcut for my website, without proper handling of events internally !
+- Back event WebView for navigation inside the app is left working.
 
-For convenience of user experiences and privacy conserns,
-I removerd:
-
-All No External Browser overrides,
-And allowed users to open external browser and external links !
-This way the application is turned into a shortcut for my website, without proper handling of events internally !
-Back event WebView for navigation inside the app is left working.
 What it does:
 My activity,
+- Using WebView to load websites into the application
+- Override main activity with WebView,
+- Pass my activity through WebView, My JS Enable, My java URL Loader.
 
-Using WebView to load websites into the application
-Override main activity with WebView,
-Pass my activity through WebView, My JS Enable, My java URL Loader.
-
+Changelog: Tirranaa.apk
 
 version 1.0 ! 
 
@@ -36,10 +32,8 @@ My activity,
 
 - No External Browser override, to stay navigating into the website within the app only, with Constructor pass through ! 
 - Override no external return URL !
-
 - Pass url through WebView, stay inside the app !
 - Support API level lower then 24 !
-
 - Pass url through WebView, stay inside the app ! 
 - Support API level higher or equal to 24 !
 
